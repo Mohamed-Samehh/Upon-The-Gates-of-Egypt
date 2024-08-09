@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - BackGround
+  - Wall
+  - Bullet
+  - Door
+  - Boss
+  - Mummy
+  - Beetle
+  - Bird
+  - Nomad
+  - Vase
+  - Scorpion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2630758973
+    locked: 0
+  - name: FG
+    uniqueID: 2559935093
+    locked: 0
+  - name: Player
+    uniqueID: 559089229
+    locked: 0
+  - name: Assets
+    uniqueID: 580988415
+    locked: 0
+  - name: Enemy
+    uniqueID: 1109166555
+    locked: 0
+  - name: Scorpion
+    uniqueID: 1480898261
+    locked: 0
+  - name: Wall
+    uniqueID: 945910073
+    locked: 0
+  - name: Bullet
+    uniqueID: 871060115
+    locked: 0
