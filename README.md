@@ -1,4 +1,4 @@
-# Upon the Gates of Egypt
+# Upon the Gates of Egypt (2D Game)
 
 ## Overview
 **"Upon the Gates of Egypt"** is a Unity-based 2D platformer game, developed using C#, that immerses players in an ancient Egyptian-themed adventure. The game combines traditional platforming elements with puzzles and combat, challenging players to navigate through intricately designed levels while facing various enemies and obstacles.
